@@ -794,7 +794,7 @@ header nav a.active {
     
   }
   #details{
-    margin-top:300px;
+    dispaly:none;
   
   #content{
     margin-top: 600px;
