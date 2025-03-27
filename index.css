@@ -793,6 +793,8 @@ header nav a.active {
     flex-direction: column;
     
   }
+  #details{
+    margin-top:100px;
   
   #content{
     margin-top: 600px;
