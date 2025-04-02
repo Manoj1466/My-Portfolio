@@ -730,13 +730,14 @@ header nav a.active {
   }
 
   #about{
-    margin-top: 500px;
+    margin-top: 300px;
   }
 
   #about .about-content {
     flex-direction: column;
     padding: 20px;
     margin-top: 600px;
+    width: 300px;
     
   }
 
@@ -754,7 +755,7 @@ header nav a.active {
   #education .education-content
    {
     width: 100%;
-    height: 600px;
+    height: 800px;
     padding: 20px;
     margin-top: 1000px;
   }
@@ -825,7 +826,7 @@ header nav a.active {
   }
 
   #details{
-    margin-top: 200px;
+    margin-top: 100px;
   }
  
 }
